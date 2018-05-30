@@ -1,0 +1,16 @@
+2018-05-30 17:28:52.2517 | TRACE | WebApplication_Nlog_Lab02.Controllers.HomeController | 我是Trace 
+
+2018-05-30 17:28:52.2937 | DEBUG | WebApplication_Nlog_Lab02.Controllers.HomeController | 我是Debug 
+
+2018-05-30 17:28:52.2937 | INFO | WebApplication_Nlog_Lab02.Controllers.HomeController | 我是Info 
+
+2018-05-30 17:28:52.2937 | WARN | WebApplication_Nlog_Lab02.Controllers.HomeController | 我是Warn 
+
+2018-05-30 17:28:56.4659 | TRACE | WebApplication_Nlog_Lab02.Controllers.HomeController | 我是Trace 
+
+2018-05-30 17:28:56.4659 | DEBUG | WebApplication_Nlog_Lab02.Controllers.HomeController | 我是Debug 
+
+2018-05-30 17:28:56.4659 | INFO | WebApplication_Nlog_Lab02.Controllers.HomeController | 我是Info 
+
+2018-05-30 17:28:56.4659 | WARN | WebApplication_Nlog_Lab02.Controllers.HomeController | 我是Warn 
+

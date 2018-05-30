@@ -1,0 +1,7 @@
+2018-05-30 17:28:52.2937 | FATAL | WebApplication_Nlog_Lab02.Controllers.HomeController | 我是Fatal 
+
+2018-05-30 17:28:56.4659 | FATAL | WebApplication_Nlog_Lab02.Controllers.HomeController | 我是Fatal 
+
+2018-05-30 17:28:57.1410 | FATAL | WebApplication_Nlog_Lab02.Controllers.HomeController | System.DivideByZeroException: 嘗試以零除。
+   於 WebApplication_Nlog_Lab02.Controllers.HomeController.About() 於 G:\程式\2018\05\WebApplication_Nlog_Lab02\WebApplication_Nlog_Lab02\Controllers\HomeController.cs: 行 34 
+
